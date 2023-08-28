@@ -1,0 +1,18 @@
+.bgg-light {
+background-image: url('https://cdn.wallpapersafari.com/8/36/7SkQNp.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.bag-light {
+    background-image: url('https://cdn.wallpapersafari.com/8/36/7SkQNp.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  p1 {
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 1.7;
+    margin-bottom: 15px;
+  }
